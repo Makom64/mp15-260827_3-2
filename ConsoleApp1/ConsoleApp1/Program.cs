@@ -6,9 +6,14 @@ public class Program
     {
         Console.WriteLine("=== N조 팀원 소개 ===");
 
+        IntroduceSunghyun();
 
         Console.WriteLine("=== 소개 끝 ===");
     }
     // 자기소개 메서드 추가 부탁드립니다.
+    public static void IntroduceSunghyun()
+    {
+        Console.WriteLine("강성현 / 강아지를 좋아합니다."); 
+    }
     
 }
