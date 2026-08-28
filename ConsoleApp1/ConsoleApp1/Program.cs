@@ -6,6 +6,8 @@ public class Program
     {
         Console.WriteLine("=== N조 팀원 소개 ===");
         IntroMakom64();
+        IntroMakom64();
+        IntroMakom64();
 
         Console.WriteLine("=== 소개 끝 ===");
     }
