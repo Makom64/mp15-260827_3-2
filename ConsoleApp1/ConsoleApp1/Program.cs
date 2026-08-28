@@ -19,9 +19,9 @@ public class Program
         Console.WriteLine("안녕하세요! 3조 조장 노승훈입니다!");
     }
 
-    public static void IntroduceSunghyun()
-    {
-        Console.WriteLine("강성현 / 강아지를 좋아합니다."); 
-    }
+    //public static void IntroduceSunghyun()
+    //{
+    //    Console.WriteLine("강성현 / 강아지를 좋아합니다."); 
+    //}
     
 }
